@@ -1,6 +1,6 @@
 # Web Scraping and ETL Project: World's Largest Banks
 
-This repository contains a Python script for extracting, transforming, and loading (ETL) data related to the world's largest banks. The script utilizes web scraping techniques to gather information from a Wikipedia page, performs necessary data transformations, and stores the results in both a CSV file and a SQLite database.
+This repository contains a Python script for extracting, transforming, and loading (ETL) data related to the world's largest banks, top 10 countries and their GDPs and top 10 ranked movies. The script utilizes web scraping techniques to gather information from a Wikipedia page, performs necessary data transformations, and stores the results in both a CSV file and a SQLite database.
 
 ## Overview
 
